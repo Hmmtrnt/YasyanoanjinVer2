@@ -1,15 +1,15 @@
 #画像データ
-#*.png
-#*.jpg
+*.png
+*.jpg
 
 #音声データ
-#*.mp3
+*.mp3
 
 #動画データ
-#*.mp4
+*.mp4
 
 #3Dモデルデータ
-#*.fbx
+*.fbx
 
 #不要ファイル
 /YasyaProjectVer1_2/.vs
